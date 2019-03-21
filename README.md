@@ -1,9 +1,2 @@
 # SFDX App
-
-## Dev, Build and Test
-
-## Resources
-
-## Description of Files and Directories
-
-## Issues
+Code for DEX450 Exercise: Handle DML Errors and Exceptions
